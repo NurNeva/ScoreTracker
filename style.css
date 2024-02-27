@@ -1,0 +1,54 @@
+*{
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header{
+
+    text-align: center;
+    padding: 20px;
+
+}
+
+.image{
+    text-align: center;
+}
+
+.body{
+
+    text-align: center;
+}
+.input{
+    height: 30px;
+}
+.scores{
+    font-size: 2rem;
+
+}
+
+.buttons{
+
+    text-align: center;
+    padding: 20px;
+}
+
+.btn{
+    height: 50px;
+    width: 100px;
+    background-color: chocolate;
+    border: none;
+    cursor: pointer;
+}
+
+.player-1{
+    background-color: greenyellow;
+}
+
+.player-2{
+    background-color: aquamarine;
+}
+
+
+
